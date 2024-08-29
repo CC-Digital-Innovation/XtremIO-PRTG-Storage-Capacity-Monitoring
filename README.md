@@ -33,16 +33,16 @@ This PowerShell script is designed to monitor Dell EMC XtremIO storage systems a
 
 ## Usage
 
-In PRTG, create a new sensor using the "EXE/Script Advanced" sensor type. Use the following parameters:
+In PRTG, create a new sensor using the "EXE/Script Advanced" sensor type. Add XtremIO account to the Linux Credentials section for device in PRTG. Use the following parameters:
 
 - **Sensor Name:** XtremIO Storage Metrics
 - **Parent Device:** Your XtremIO device in PRTG
 - **Inherit Access Rights:** Yes
 - **Scanning Interval:** 5 minutes (or as needed)
 - **EXE/Script:** XtremIO-PRTG-Sensor.ps1
-- **Parameters:** %host %linuxuser %linuxpassword
+- **Parameters:** -XtremIOIP %host -Username %linuxuser -Password %linuxpassword
 
-Replace `%host`, `%linuxuser`, and `%linuxpassword` with the appropriate placeholders for your PRTG setup.
+Replace `%host`, `%linuxuser`, and `%linuxpassword` with the appropriate placeholders if not using the Linux Credentials in PRTG.
 
 ## Configuration
 
@@ -72,7 +72,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 Richard Travellin - richard.travellin@computacenter.com
 
-Project Link: (https://github.com/CC-Digital-Innovation/XtremIO-PRTG-Storage-Capacity-Monitoring/)
+Project Link: https://github.com/CC-Digital-Innovation/XtremIO-PRTG-Storage-Capacity-Monitoring/
 
 ## Acknowledgements
 
