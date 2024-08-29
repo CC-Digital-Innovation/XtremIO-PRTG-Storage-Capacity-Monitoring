@@ -1,5 +1,6 @@
 # XtremIO PRTG Storage Capacity Sensor
-![image](https://github.com/user-attachments/assets/18f35ee5-d088-49f4-a3e7-c127bf503b44)
+![image](https://github.com/user-attachments/assets/72d94637-0123-4c17-8b15-968aeb5711b2)
+
 
 
 ## Description
