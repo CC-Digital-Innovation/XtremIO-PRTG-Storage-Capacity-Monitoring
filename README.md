@@ -1,4 +1,6 @@
 # XtremIO PRTG Sensor Script
+![image](https://github.com/user-attachments/assets/18f35ee5-d088-49f4-a3e7-c127bf503b44)
+
 
 ## Description
 
