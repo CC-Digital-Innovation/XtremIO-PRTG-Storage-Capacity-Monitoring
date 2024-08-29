@@ -39,7 +39,7 @@ In PRTG, create a new sensor using the "EXE/Script Advanced" sensor type. Add Xt
 - **Parent Device:** Your XtremIO device in PRTG
 - **Inherit Access Rights:** Yes
 - **Scanning Interval:** 5 minutes (or as needed)
-- **EXE/Script:** XtremIO-PRTG-Sensor.ps1
+- **EXE/Script:** XtremIO-PRTG-Storage-Capacity.ps1
 - **Parameters:** -XtremIOIP %host -Username %linuxuser -Password %linuxpassword
 
 Replace `%host`, `%linuxuser`, and `%linuxpassword` with the appropriate placeholders if not using the Linux Credentials in PRTG.
