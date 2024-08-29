@@ -69,9 +69,9 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Richard Travellin - richard.travellin@computacenter.com
 
-Project Link: [https://github.com/yourusername/xtremio-prtg-sensor](https://github.com/yourusername/xtremio-prtg-sensor)
+Project Link: [[https://github.com/yourusername/xtremio-prtg-sensor](https://github.com/yourusername/xtremio-prtg-sensor)](https://github.com/CC-Digital-Innovation/XtremIO-PRTG-Storage-Capacity-Monitoring/)
 
 ## Acknowledgements
 
