@@ -27,7 +27,7 @@ This PowerShell script is designed to monitor Dell EMC XtremIO storage systems a
 
 ## Installation
 
-1. Clone this repository or download the `XtremIO-PRTG-Sensor.ps1` file.
+1. Clone this repository or download the `XtremIO-PRTG-Storage-Capacity.ps1` file.
 2. Place the script in your PRTG Custom Sensors directory, typically:
    `C:\Program Files (x86)\PRTG Network Monitor\Custom Sensors\EXEXML`
 
